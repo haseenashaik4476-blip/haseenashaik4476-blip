@@ -1,16 +1,20 @@
-## Hi there 👋
+ ### Hi there 👋 I'm Haseena
 
-<!--
-**haseenashaik4476-blip/haseenashaik4476-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at B.R Institute of Technology & Management Sciences  
+💻 Aspiring Full Stack Java Developer  
+🌱 Currently learning: Advanced Java, JDBC, Servlets & JSP  
+🔭 Working on: Library Management System using Java + MySQL  
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+Java | JDBC | MySQL | HTML | CSS | SQL | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Pinned Projects
+- [PracticeJdbc](https://github.com/haseenashaik4476-blip/PracticeJdbc) - CRUD operations using JDBC
+- [Student Portal](https://github.com/haseenashaik4476-blip/Student-Portal) - Servlets & JSP Project
+
+### 📫 Connect with me
+📧 haseenashaik4476@gmail.com  
+
+
+⭐️ From [haseenashaik4476-blip](https://github.com/haseenashaik4476-blip)
+
