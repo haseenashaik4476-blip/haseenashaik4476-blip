@@ -12,7 +12,7 @@
 | :--- | :--- | :--- | :--- |
 | **MCA** | Master of Computer Applications | **82%** | 2024-2026 |
 | **B.Sc** | Computer Science | **90%** | 2021-2024|
-| **Intermediate** | Junior Intermediate | **80%** |2019-2021 |
+| **Intermediate** | Junior Intermediate | **82.08%** |2019-2021 |
 | **10th Class** | SSC | **95%** | 2018-2019 |
 
 🏆 **Achievement:** **TCS NQT - IT 2026 Qualified with 67.03% in FIRST Attempt!** - Cleared in first attempt among thousands of candidates.
