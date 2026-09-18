@@ -1,6 +1,6 @@
 
 # Hi, I'm Haseena Shaik 👩‍💻
-### Java Backend Developer | MCA Graduate | TCS NQT 2026 67.03%
+### Java Backend Developer | MCA Graduate | TCS NQT 67.03% ( First Attempt ) - 2026
 
 > Aspiring Java Full-Stack Developer passionate about building real-world MNC-standard applications with clean code & scalable architecture.
 
