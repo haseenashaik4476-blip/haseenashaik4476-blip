@@ -72,10 +72,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Haseena's GitHub stats](https://github-readme-stats.vercel.app/api?username=haseenashaik4476-blip&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haseenashaik4476-blip&layout=compact&theme=tokyonight)
-
-
 **Thanks for visiting my profile! Let's build something amazing together! 🙏**
