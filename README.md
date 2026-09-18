@@ -66,7 +66,7 @@
 ### 📫 Connect With Me
 
 - **GitHub:** [haseenashaik4476-blip](https://github.com/haseenashaik4476-blip)
-- **Location:** Addanki, Andhra Pradesh, India
+- **Location:** Martur, Andhra Pradesh, India
 - **Email:**  haseenashaik4476@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/haseena-shaik-918583339?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
